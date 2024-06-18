@@ -1,0 +1,31 @@
+body{
+    background-image: url(/public/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+ }
+
+.container{
+    background-color: #727272a6;
+    width: 360px;
+    height: 420px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    
+}
+
+
+.form-group{
+    padding: 12px;
+
+}
+
+
+.abs{
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    padding: 15px;
+}
